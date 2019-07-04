@@ -14,4 +14,4 @@
                 测试图片： 1~4.png
                 代码：————.ino
                 ![image](https://github.com/fj-lsl/morse-code_1/blob/master/picture/0.png)
-                ![image](https://github.com/fj-lsl/morse-code_1/blob/master/picture/QQ%E6%88%AA%E5%9B%BE20190704103734.png)
+                ![image](https://github.com/fj-lsl/morse-code_1/blob/master/Seven-segment%20digital%20tube/2.png)
